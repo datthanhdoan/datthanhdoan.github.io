@@ -1,6 +1,6 @@
 ---
 title: "Align Scrum"
-date: 2023-12-7
+date: 2023-12-07
 description: "Why you need to align Scrum and how to do it?"
 summary: "Learn about the importance of aligning Scrum and how to do it."
 tags: ["alignscrum"]
