@@ -18,7 +18,7 @@ weight = 10
 [[main]]
 name = "About"
 pageRef = "about"
-weight = 0
+weight = 40
 
 
 #[[main]]
@@ -54,7 +54,11 @@ name = "Tags"
 pageRef = "tags"
 weight = 30
 
-
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/datthanhdoan"
+weight = 0
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.

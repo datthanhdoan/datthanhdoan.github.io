@@ -41,14 +41,9 @@ My first platformer game 🤠
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Learned Web Development" badge="2023/8/14" subheader="" >}}
-I have learned about web development in my university. I have learned about HTML , Css , Js and Jquery.
+I have learned about web development in my university. I have learned about HTML , Css , Js and Jquery. <br>
 {{< github repo="datthanhdoan/playvalorant" >}}
-
 {{< /timelineItem >}}
 
 
 {{< /timeline >}}
-
-{{< alert "github" >}}
-Don't forget to check out my [github](https://github.com/datthanhdoan) ✨.
-{{< /alert >}}
