@@ -12,15 +12,15 @@ cascade:
 ## Giới thiệu
 Nếu bạn yêu thích làm game , đặc biệt là game pixel thì chắc hẳn bạn đã không xa lạ gì với Aseprite . Nó là một công cụ mạnh mẽ cho vẽ pixel art và animation 2D và bản 1.3.x mới ra còn giúp bạn chỉnh sửa tilemap nữa .
 Với mình , một sinh viên đang học làm game và muốn tìm hiểu thêm về pixel art cũng thì đây là một công cụ tuyệt vời rồi . Nhưng Aseprite không hề miễn phí và bạn phải trả 19.99$ (~ 485.377vnd) 🫠 . 
-## Có chắc là bạn phải trả phí không ?
+### Có chắc là bạn phải trả phí không ?
 Hmmm , **không hẳn** . Bởi vì có thể bạn không biết , aseprite là một phần mềm mã nguồn mở và bạn hoàn toàn có thể tự build nó từ source code chính thức của [aseprite](https://github.com/aseprite/aseprite) trên github. Nghe đến đây thì bạn kiểu "Mọe ông phét à , thu tiền thì nó để nguồn mở để làm gì ?" . Thật ra thì bạn có thể tự build nó từ source code nhưng bạn không được phép bán nó hay phân phối nó . Bạn chỉ được dùng nó cho mục đích cá nhân thôi . Nếu bạn muốn dùng nó cho mục đích thương mại thì bạn phải mua bản quyền . Và cũng không phải ai cũng có thể tự build nó được đâu . 
 ## Vậy làm sao để build nó ?
 Nếu bạn là học cntt hoặc liên quan đến lập trình thì hẳn không quá khó khăn . Đây là link hướng dẫn chính thức của [Aseprite](https://github.com/aseprite/aseprite/blob/main/INSTALL.md) . Ở bài viết này mình sẽ hướng dẫn các bạn build nó trên Window.
-### Dependencies:
+### Dependencies
 Bạn cần phải có những thứ sau để có thể build được Aseprite :
 - [Cmake](https://cmake.org/download/) và [Ninja](https://ninja-build.org/) ,[Skia](https://github.com/aseprite/skia) của Asprite .
 - Visual Studio 2022 ( ở đây mình dùng bản 2022 ). Bạn cần chọn [Desktop development with C++ item](https://imgur.com/a/7zs51IT) Và win 10 SDK (trong phần Individual components) *Nếu dùng win11 thì bạn hãy chọn win 11 SDK nhé*
-### Build:
+### Build
 - Step 1: Clone repo của Aseprite về máy của bạn .
 Clone repo của Aseprite về máy của bạn .
 *Lưu ý : Bạn phải clone nó ở thư mục C:\ , không phải thư mục tên của bạn đâu nhé!* 
@@ -55,6 +55,6 @@ Mở Cmd lên và gõ lệnh sau :
 - Step 4: Tạo shortcut cho Aseprite trong Start Menu.
 
     - Tạo một thư mục tên là "**Aseprite**" trong "C:\Program Files (x86)\" . Sau đó copy **aseprite.exe** và folder **data** ( đây là hai thứ bạn vừa build xong nó nằm ở "C:\aseprite\build\bin" ) vào "Aseprite". 
-    - Ấn chuột phải vào **aseprite.exe** và chọn "**Create shortcut**" . Sau đó bạn copy và paste shortcut đó vào "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\".
+    - Ấn chuột phải vào **aseprite.exe** và chọn "**Create shortcut**" . Sau đó bạn copy và paste shortcut đó vào "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\" (*Nếu shortcut tên là "aseprite.exe - Shortcut" hoặc đại loại vậy thì bạn hãy đổi tên nó thành "Aseprite" nhé*).
 
 And that it 🥳 ! Bây giờ bạn có thể mở Aseprite lên và sử dụng nó rồi .
