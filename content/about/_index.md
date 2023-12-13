@@ -1,12 +1,13 @@
 ---
-title: "About me"
+title: "Welcom to my blog!"
 date: 2023-11-23
-description: "Hi there!"
-summary: "Learn more about me "
-tags: [ "about"]
-layout: "simple"
+description: "Welcome to my blog!"
+summary: "Learn more about me and why I am starting this blog."
+tags: ["welcome", "about"]
+showHero: true
+heroStyle: "thumbAndBackground"
+layoutBackgroundBlur: true
 cascade:
   showReadingTime: true
 ---
-> Có công mài sắt có ngày nên kim - Tục ngữ việt nam
-## Why I am starting this blog?
+> A person who want to learn more about the world and share what he learned.
