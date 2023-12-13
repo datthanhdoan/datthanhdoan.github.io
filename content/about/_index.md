@@ -42,7 +42,10 @@ My first platformer game 🤠
 
 {{< timelineItem icon="code" header="Learned Web Development" badge="2023/8/14" subheader="" >}}
 I have learned about web development in my university. I have learned about HTML , Css , Js and Jquery. <br>
-{{< github repo="datthanhdoan/playvalorant" >}}
+{{< button href="https://playvalorant-vn.glitch.me" target="_self" >}}
+Go to my valorant clone website 
+{{< /button >}}
+
 {{< /timelineItem >}}
 
 
