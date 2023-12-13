@@ -3,13 +3,11 @@ title: "Welcom to my blog!"
 date: 2023-11-23
 description: "Welcome to my blog!"
 summary: "Learn more about me and why I am starting this blog."
-tags: ["welcome", "new", "about", "first"]
-layout: "simple"
+tags: ["welcome", "about"]
 showHero: true
 heroStyle: "thumbAndBackground"
-# layoutBackgroundBlur: true
+layoutBackgroundBlur: true
 cascade:
   showReadingTime: true
 ---
-> Hành trình vạn dặm bắt đầu bằng một bước chân - Lão tử
-## Why I am starting this blog?
+> A person who want to learn more about the world and share what he learned.
