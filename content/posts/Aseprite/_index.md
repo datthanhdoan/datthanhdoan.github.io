@@ -3,9 +3,7 @@ title: "Aseprite - Pixel Art Tool"
 date: 2023-12-13
 description: "Aseprite is a pixel art tool that lets you create 2D animations for videogames."
 tags: ["game", "tools"]
-showHero: true
-heroStyle: "thumbAndBackground"
-layoutBackgroundBlur: true
+# showLikes: true
 cascade:
   showReadingTime: true
 ---
