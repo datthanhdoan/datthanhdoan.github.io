@@ -15,8 +15,8 @@ cascade:
 {{< typeit 
   tag=h1
   breakLines=false
-  lifeLike=true
   loop=true
+  speed=120
 >}}
 Xin Chào 👋!
 Hello 👋!
