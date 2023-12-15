@@ -11,7 +11,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["blog"]
+mainSections = ["posts", "about"]
 # robots = ""
 
 disableImageOptimization = true
@@ -19,8 +19,8 @@ disableImageOptimization = true
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
+highlightCurrentMenuArea = true
+smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
@@ -35,11 +35,11 @@ showScrollToTop = true
 [homepage]
 layout = "profile"              # valid options: page, profile, hero, card, background, custom
 homepageImage = "/img/leak.jpg" # used in: hero, and card
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = false    # only used when layout equals background
 

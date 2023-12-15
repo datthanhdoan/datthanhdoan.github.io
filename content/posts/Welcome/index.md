@@ -9,8 +9,6 @@ heroStyle: "thumbAndBackground"
 cascade:
   showReadingTime: true
 ---
-## Why I am starting this blog ✍️ ?
-
 **Hi there👋!**
 {{< typeit 
   tag=p

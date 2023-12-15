@@ -14,9 +14,23 @@ cascade:
 
 {{< typeit 
   tag=h1
+  breakLines=false
   lifeLike=true
+  loop=true
 >}}
 Xin Chào 👋!
+Hello 👋!
+你好 👋!
+今日は 👋!
+안녕하세요 👋!
+สวัสดี 👋!
+नमस्ते 👋!
+اسلا عليكم 👋!
+Ola 👋!
+Hallo 👋!
+Bonjour 👋!
+Ciao 👋!
+Привет 👋!
 {{< /typeit >}}
 
 Hi, I'm Đạt (you can call me Dat or Charlie). I'm a student studying at Phenikaa University. Currently, I'm learning about game development. When I delve into the world of game development, it feels like a new adventure for me. I want to learn more and share what I've learned. That's why I've created this blog to share my knowledge and experiences in game development. I hope you will find something useful here.
