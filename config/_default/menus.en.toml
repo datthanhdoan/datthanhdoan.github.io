@@ -15,18 +15,23 @@ name = "Blog"
 pageRef = "posts"
 weight = 10
 
+
+# Projects
 [[main]]
-name = "About"
-pageRef = "about"
-weight = 40
+name = "Projects"
+pageRef = "projects"
+weight = 20
+
+# [[main]]
+# name = "Games"
+# parent = "Projects"
+# pageRef = "projects/game-projects"
 
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
+# [[main]]
+# name = "Web"
+# parent = "Projects"
+# pageRef = "projects/web-projects"
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
@@ -55,6 +60,11 @@ pageRef = "tags"
 weight = 30
 
 [[main]]
+name = "About"
+pageRef = "about"
+weight = 40
+
+[[main]]
 identifier = "github"
 pre = "github"
 url = "https://github.com/datthanhdoan"
@@ -70,6 +80,6 @@ weight = 0
 #   weight = 10
 
 # [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+# name = "Categories"
+# pageRef = "categories"
+# weight = 20

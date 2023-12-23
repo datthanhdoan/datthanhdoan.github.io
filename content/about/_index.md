@@ -41,24 +41,15 @@ I'm studying at Phenikaa University. I'm learning about game development and inf
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="code" header="Started Game Development" badge="2023/10/10" subheader=" 🏇 new adventure" >}}
-This is my game project , which is 2D platformer game. When I start learning about unity.<br>
-{{% rtl %}}
-My scond game , I made it with my friend ⚔️
-{{% /rtl %}}
-{{< github repo="datthanhdoan/EscapeDeath" >}}
-{{% rtl %}}
-My first platformer game 🤠
-{{% /rtl %}}
-{{< github repo="datthanhdoan/CungRung" >}}
+{{< timelineItem icon="code" header="Started Game Development" badge="2023/8" subheader=" 🏇 new adventure" >}}
+First time in Unity 
+
 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Learned Web Development" badge="2023/8/14" subheader="" >}}
 I have learned about web development in my university. I have learned about HTML , Css , Js and Jquery. <br>
-{{< button href="https://playvalorant-vn.glitch.me" target="_self" >}}
-Go to my valorant clone website 
-{{< /button >}}
+
 
 {{< /timelineItem >}}
 
