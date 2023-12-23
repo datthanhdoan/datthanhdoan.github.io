@@ -4,10 +4,12 @@ date: 2023-12-24
 description: "Noel game 2023"
 tags: ["game", "game-dev"]
 # showLikes: true
+
 cascade:
   showReadingTime: true
 ---
 
+![[project-image]](conquer-christmas-day.jpg)
 ## Introduction
 My game club have an idea to make games for Christmas 2023. Each group will make a game and we will combine them into a game collection. I very excited about this project and after that I have an idea to make a game about about crafting genre.
 ## Inspiration
