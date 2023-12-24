@@ -17,8 +17,8 @@ dateFormat = "2 January 2006"
 [author]
 name = "Dat Thanh Doan"
 image = "img/logo.jpg"
-headline = "I am a student at Phenikaa University"
-bio = "Hi 👋, I'm a student from Vietnam who loves learning and is passionate about game development."
+headline = "A person who wants to learn more about the world"
+bio = "Hi 👋, I'm a student from Vietnam who loves learning and is <br/>passionate  about game development."
 links = [
   { email = "mailto:datthanhdoan.charlie@gmail.com" },
   #     { link = "https://link-to-some-website.com/" },

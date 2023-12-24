@@ -1,21 +1,29 @@
-#search-query {
-  outline: none;
-  border: none;
-  box-shadow: none;
-}
+/* custom scrollbar */
+
 ::-webkit-scrollbar {
-  width: 0.3em;
+  width: 0.25em;
 }
 ::-webkit-scrollbar-track {
-  background: rgba(255, 255, 255, 0.613);
+  background: rgba(255, 255, 255, 1);
 }
 ::-webkit-scrollbar-thumb {
-  background: rgb(124, 124, 124);
+  border-radius: 100vw;
+  background: rgb(168, 168, 168);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: rgb(45, 99, 65);
+  background: rgb(126, 126, 126);
 }
 
 * {
   scrollbar-width: thin;
 }
+
+/* custom search */
+
+#search-query {
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* HomePage - custom.css */
