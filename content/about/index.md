@@ -16,7 +16,7 @@ cascade:
   tag=h1
   breakLines=false
   loop=true
-  speed=120
+  speed=200
 >}}
 Xin Chào 👋!
 Hello 👋!
@@ -48,7 +48,7 @@ First time in Unity
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="Learned Web Development" badge="2023/8/14" subheader="" >}}
-I have learned about web development in my university. I have learned about HTML , Css , Js and Jquery. <br>
+I have learned about HTML , Css , Js and Jquery in my University <br>
 
 
 {{< /timelineItem >}}
