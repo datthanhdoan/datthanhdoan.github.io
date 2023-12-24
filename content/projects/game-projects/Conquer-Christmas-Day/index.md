@@ -1,5 +1,5 @@
 ---
-title: "Conquer Christmas Day" 
+title: "Conquer Christmas Day - My Christmas Game 2023" 
 date: 2023-12-24
 description: "Noel game 2023"
 tags: ["game", "game-dev"]
