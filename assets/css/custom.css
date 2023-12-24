@@ -27,3 +27,12 @@
 }
 
 /* HomePage - custom.css */
+#custom-bio_homepage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#custom-bio_homepage p {
+  align-items: center;
+  max-width: 650px;
+}
