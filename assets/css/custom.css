@@ -1,3 +1,16 @@
+@font-face {
+  font-family: Inter;
+  src: url("fonts/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: Segoe-UI-Emoji;
+  src: url("fonts/Segoe-UI-Emoji.ttf");
+}
+
+html {
+  font-family: Inter, Segoe-UI-Emoji;
+}
+
 /* custom scrollbar */
 
 ::-webkit-scrollbar {
