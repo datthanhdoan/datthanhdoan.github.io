@@ -69,6 +69,7 @@ showTableOfContents = true
 showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
+showZenMode = true        # Zenmode button in the article header 
 
 # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 

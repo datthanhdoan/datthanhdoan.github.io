@@ -5,7 +5,6 @@ description: ""
 summary: "Learn more about me and why I am starting this blog."
 tags: ["welcome"]
 layout: "simple"
-heroStyle: "thumbAndBackground"
 cascade:
   showReadingTime: true
 ---
