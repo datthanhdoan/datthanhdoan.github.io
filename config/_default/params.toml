@@ -39,7 +39,7 @@ showRecent = true
 showRecentItems = 10
 showMoreLink = false
 showMoreLinkDest = "/posts"
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false # only used when layout equals background
 
@@ -69,6 +69,7 @@ showTableOfContents = true
 showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = true
+
 # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
@@ -81,9 +82,9 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-showCards = false
+showCards = true
 groupByYear = false
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 

@@ -1,11 +1,11 @@
 @font-face {
   font-family: Inter;
-  src: url("fonts/Inter-Regular.ttf");
+  src: url("/fonts/Inter-VariableFont.ttf");
 }
-@font-face {
+/* @font-face {
   font-family: Segoe-UI-Emoji;
-  src: url("fonts/Segoe-UI-Emoji.ttf");
-}
+  src: url("/fonts/Segoe-UI-Emoji.ttf");
+} */
 
 html {
   font-family: Inter, Segoe-UI-Emoji;
@@ -47,5 +47,34 @@ html {
 }
 #custom-bio_homepage p {
   align-items: center;
-  max-width: 650px;
+  /* width: 100%; */
+  max-width: 500px;
+}
+
+/* #author_custom {
+  font-size: 1.5rem;
+  font-weight: 800;
+} */
+
+.author_link_custom {
+  color: #94a3b8;
+}
+
+.author-image {
+  position: relative;
+}
+
+.author-status-icon_custom {
+  --size: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0.25rem;
+  right: 0.25rem;
+  border-radius: 100%;
+  height: var(--size);
+  width: var(--size);
+  background-color: #fff;
+  box-shadow: #94a3b848 0 3px 3px 0.01rem;
 }
