@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dat&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Dat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dat Thanh Doan</copyright>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Game Jam 2024 Viet Nam</title>
+      <link>http://localhost:1313/posts/2024/global-game-jam-2024-vn/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024/global-game-jam-2024-vn/</guid>
+      <description>What is GGJ ?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2024/global-game-jam-2024-vn/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Aseprite - Pixel Art Tool</title>
+      <link>http://localhost:1313/posts/2023/aseprite/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023/aseprite/</guid>
+      <description>Giới thiệu #Nếu bạn yêu thích làm game , đặc biệt là game pixel thì chắc hẳn bạn đã không xa lạ gì với Aseprite .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2023/aseprite/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcom to my blog!</title>
+      <link>http://localhost:1313/posts/2023/welcome/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023/welcome/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2023/welcome/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

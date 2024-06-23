@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Dat&#39;s Blog</title>
+    <link>http://localhost:1313/tags/tools/</link>
+    <description>Recent content in Tools on Dat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dat Thanh Doan</copyright>
+    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aseprite - Pixel Art Tool</title>
+      <link>http://localhost:1313/posts/2023/aseprite/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023/aseprite/</guid>
+      <description>Giới thiệu #Nếu bạn yêu thích làm game , đặc biệt là game pixel thì chắc hẳn bạn đã không xa lạ gì với Aseprite .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/2023/aseprite/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>My Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>this file is not ready yet #just wait a little bit more #</description>
+      
+    </item>
+    
+  </channel>
+</rss>

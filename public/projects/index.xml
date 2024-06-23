@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dat&#39;s Blog</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Dat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Dat Thanh Doan</copyright>
+    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Tag Boom</title>
+      <link>http://localhost:1313/projects/game-projects/tag-tag-boom/</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/game-projects/tag-tag-boom/</guid>
+      <description>Giới thiệu #Bạn và những người chơi khác sẽ vào một thế giới đặt bom , vào game một người ngẫu nhiên sẽ được chọn cầm bom , sau một thời gian bom sẽ phát nổ người cầm quả bom đó sẽ chết .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/game-projects/tag-tag-boom/feature.png" />
+    </item>
+    
+    <item>
+      <title>Conquer Christmas Day - My Christmas Game 2023</title>
+      <link>http://localhost:1313/projects/game-projects/conquer-christmas-day/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/game-projects/conquer-christmas-day/</guid>
+      <description>Giới thiệu #Những đứa trẻ trong ngày giáng sinh sẽ tới nhà của ông già noel để “đòi quà” nhiệm vụ của người chơi là craft ra đúng món đồ mà những đứa trẻ đó muốn và làm cho tất cả trẻ em đều có quà .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/game-projects/conquer-christmas-day/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Valorant</title>
+      <link>http://localhost:1313/projects/web-projects/valorant-clone/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/web-projects/valorant-clone/</guid>
+      <description>Introduction #This is a Valorant Clone that I made for my web class(We learn to make website and also made it in about 2 months).</description>
+      
+    </item>
+    
+  </channel>
+</rss>
