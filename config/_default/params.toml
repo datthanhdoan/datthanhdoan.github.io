@@ -34,14 +34,14 @@ showScrollToTop = true
 
 [homepage]
 layout = "custom" # valid options: page, profile, hero, card, background, custom
-# homepageImage = "/img/bg2.jpeg" # used in: hero, and card
+# homepageImage = "/img/bird-flying.jpg" # used in: hero, and card
 showRecent = true
 showRecentItems = 10
-showMoreLink = false
+# showMoreLink = true
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false # only used when layout equals background
+layoutBackgroundBlur = true # only used when layout equals background
 
 [Params]
 giscusTheme="preferred_color_scheme"
@@ -50,7 +50,7 @@ disableComments=false
 [article]
 showDate = true
 showViews = false
-showLikes = true
+showLikes = false
 showComments = true
 showDateUpdated = false
 showAuthor = true

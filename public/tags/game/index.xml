@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Dat Thanh Doan</copyright>
-    <lastBuildDate>Wed, 31 Jan 2024 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cat In The Forest</title>
+      <link>http://localhost:1313/projects/game-projects/cat-in-the-forest/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/game-projects/cat-in-the-forest/</guid>
+      <description>How the Game Was Born ❓ #I wanted to create a top-down game but didn&amp;rsquo;t have any specific ideas.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/game-projects/cat-in-the-forest/feature.png" />
+    </item>
+    
     <item>
       <title>Tag Tag Boom</title>
       <link>http://localhost:1313/projects/game-projects/tag-tag-boom/</link>
